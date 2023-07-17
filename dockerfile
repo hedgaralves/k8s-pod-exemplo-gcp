@@ -14,3 +14,5 @@ RUN apt-get update && apt-get install -y \
 
 
 EXPOSE 80
+
+#teste de criação de pods para disponilidade no GCP
